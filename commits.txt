@@ -1,0 +1,17 @@
+commit 19aadb1aef6343af72b20206e77c6c41329d1365
+Author: Luis Cortes <corguerraluis@gmail.com>
+Date:   Sat Oct 26 20:57:53 2019 +0200
+
+    Se añade 'Linea 2' al final del documento
+
+commit 03857c26bf40a51745a9f0f2349901ad53dfdbf8
+Author: Luis Cortes <corguerraluis@gmail.com>
+Date:   Sat Oct 26 20:55:19 2019 +0200
+
+    Se añade 'Linea 1' al final del documento
+
+commit de81d864dc7904cefdc79c1326d360e6fa037001
+Author: Luis Cortes <corguerraluis@gmail.com>
+Date:   Sat Oct 26 20:49:21 2019 +0200
+
+    Se ha creado un documento de texto vacio
